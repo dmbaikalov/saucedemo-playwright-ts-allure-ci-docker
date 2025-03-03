@@ -1,0 +1,35 @@
+{
+  "name": "saucedemo-playwright-ts-allure-ci-docker",
+  "version": "1.0.0",
+  "description": "Saucedemo.com website automation. Used Playwright with TypeScript, POM patter, Allure reports, GitHub Actions, Docker, Docker compose",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmbaikalov/saucedemo-playwright-ts-allure-ci-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dmbaikalov/saucedemo-playwright-ts-allure-ci-docker/issues"
+  },
+  "homepage": "https://github.com/dmbaikalov/saucedemo-playwright-ts-allure-ci-docker#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.10.10",
+    "@typescript-eslint/eslint-plugin": "^8.24.1",
+    "@typescript-eslint/parser": "^8.24.1",
+    "allure-playwright": "^3.0.9",
+    "dotenv": "^16.4.7",
+    "eslint": "^9.20.1",
+    "eslint-config-prettier": "^10.0.1",
+    "eslint-plugin-prettier": "^5.2.3",
+    "prettier": "^3.5.1"
+  },
+  "dependencies": {
+    "@ngneat/falso": "^7.3.0",
+    "allure-commandline": "^2.32.2"
+  }
+}
