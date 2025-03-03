@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/package",
   "name": "saucedemo-playwright-ts-allure-ci-docker",
   "version": "1.0.0",
   "description": "Saucedemo.com website automation. Used Playwright with TypeScript, POM patter, Allure reports, GitHub Actions, Docker, Docker compose",
